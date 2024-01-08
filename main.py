@@ -1,0 +1,6 @@
+r=float(input("vaha:"))
+x=float(r)
+pi=float(input("vyska:"))
+y=float(pi)
+z=str(x/y)
+print("Va BMI je =  " +z)
